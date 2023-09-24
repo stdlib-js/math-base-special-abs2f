@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import abs2f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs2f@deno/mod.js';
+import abs2f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs2f@v0.1.0-deno/mod.js';
 ```
 
 #### abs2f( x )
@@ -85,7 +85,7 @@ v = abs2f( NaN );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import abs2f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs2f@deno/mod.js';
+import abs2f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs2f@v0.1.0-deno/mod.js';
 
 var x;
 var i;
