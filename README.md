@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import abs2f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs2f@deno/mod.js';
+import abs2f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs2f@v0.2.3-deno/mod.js';
 ```
 
 #### abs2f( x )
@@ -85,7 +85,7 @@ v = abs2f( NaN );
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import abs2f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs2f@deno/mod.js';
+import abs2f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs2f@v0.2.3-deno/mod.js';
 
 var x = discreteUniform( 100, -50, 50, {
     'dtype': 'float32'
